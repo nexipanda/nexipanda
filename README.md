@@ -78,7 +78,7 @@ Atualmente estou focado em:
 
 | Projeto | site | Descrição | Tecnologias | Status | Versão |
 |---------|------|-----------|-------------|--------|--------|
-| [server downloader](https://github.com/nexipanda/server_downloader) | [pagina](https://minerdownloader-0ba4d8429827.herokuapp.com/) | download de minecraft servers | [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark)](https://skillicons.dev) | 🟡 desenvolvimento | 1.0 |
+| [server downloader](https://github.com/nexipanda/server_downloader) | [pagina](https://minerdownloader-0ba4d8429827.herokuapp.com/) | download de minecraft servers | [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark)](https://skillicons.dev) | PRONTO 🟢 | 1.0 |
 
 </details>
 
